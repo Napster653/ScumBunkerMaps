@@ -1,0 +1,25 @@
+tr {
+	height: 150px;
+	width: 150px;
+	text-align: center;
+	font-size: 54px;
+}
+
+a {
+	padding: 50px;
+	border: 1px solid black;
+	display: block;
+}
+
+body {
+	text-align: center;
+}
+
+table {
+	display: inline;
+}
+
+h1{
+	font-size: 64px;
+	padding: 15px;
+}
